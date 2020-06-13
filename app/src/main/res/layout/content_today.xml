@@ -55,11 +55,20 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
 
             <FrameLayout
@@ -88,11 +97,19 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
 
 
@@ -129,11 +146,19 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
             <FrameLayout
                 android:layout_width="match_parent"
@@ -161,11 +186,19 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
         </LinearLayout>
         <LinearLayout
@@ -200,11 +233,19 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
             <FrameLayout
                 android:layout_width="match_parent"
@@ -232,11 +273,19 @@
                         android:gravity="center"
                         android:padding="48dp"
                         android:background="#806c717a"
-                        android:textColor="#ffffff"
+                        android:textColor="#FFFFFF"
                         android:textSize="16sp"
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    app:srcCompat="@drawable/ic_add_white_24dp"
+                    app:backgroundTint="@color/colorPrimary"/>
             </FrameLayout>
         </LinearLayout>
     </LinearLayout>

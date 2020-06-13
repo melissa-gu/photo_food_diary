@@ -26,8 +26,6 @@ public class TodayActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-//        android.widget.ImageView view = (android.widget.ImageView) findViewById(R.id.breakfast);
-//        view.setClipToOutline(true);
     }
 
     @Override
